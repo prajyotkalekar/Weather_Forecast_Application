@@ -36,8 +36,9 @@ The Weather Forecast Project is an interactive web-based application designed to
 <br><br>
 
 <h2>Screenshots:</h2>
-![7](https://github.com/user-attachments/assets/e196ac78-eb65-450a-a5f3-249ac0d0e173)
-
+![7](https://github.com/user-attachments/assets/d3e5a860-f576-4d7e-95d5-6bac29cbbb34)
+![8](https://github.com/user-attachments/assets/36b82f02-ef64-4495-81a4-354b757f6412)
+![9](https://github.com/user-attachments/assets/af8396ff-389d-4f41-908b-8ce9a6a82f73)
 <br>
 
 <h4> - Feel free to contribute, report issues, or suggest improvements. Happy coding!🤝💡</h4>
