@@ -1,4 +1,4 @@
-<h2 align = "center">Weather Forecast<img src="images/fevicon.png" alt="" height="35" width="55"/></h2>
+<h2 align = "center">Weather Forecast<img src="assets/fevicon.png" alt="" height="35" width="55"/></h2>
 <br>
 
 <h2>Overview:</h2>
@@ -32,7 +32,7 @@ The Weather Forecast Project is an interactive web-based application designed to
 
 <h2>Demo:</h2>
 
-- Explore the functionality of the Weather Forecast Project with our <a href="https://prajyotkalekar.github.io/Weather_Forecast_Application/" target="_blank">Live Demo</a>. Enter different locations and see real-time weather updates. Experience the sleek user interface and intuitive design firsthand.
+- Explore the functionality of the Weather Forecast Project with our <a href="https://prajyotkalekar.github.io/Weather_Forecast_Application/" target="_blank" rel="noopener noreferrer">Live Demo</a>. Enter different locations and see real-time weather updates. Experience the sleek user interface and intuitive design firsthand.
 <br><br>
 
 <h2>Screenshots:</h2>
