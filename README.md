@@ -3,18 +3,20 @@
 
 <h2>Overview:</h2>
 
-This project is a straightforward web-based currency converter focused on three major currencies: Indian Rupee (INR), United States Dollar (USD), and Euro (EUR). It employs HTML for the structure, CSS for styling, and JavaScript for dynamic functionality. The converter fetches live exchange rates for these specific currencies using an API for accurate and up-to-date conversions.
+The Weather Forecast Project is an interactive web-based application designed to provide real-time weather updates for various locations. With a modern and visually appealing interface, the dashboard allows users to enter a location and receive immediate weather data, including temperature, weather conditions, humidity, and wind speed.
 <br><br>
 
 <h2>Features:</h2>
 
-- Limited Currency Options: The converter is designed to handle conversions between Indian Rupee (INR), United States Dollar (USD), and Euro (EUR).
+- Real-time Weather Data: Fetches and displays current weather information for any specified location.
   
-- User-friendly Interface: The application provides a simple and intuitive user interface for easy currency conversion.
+- User-Friendly Interface: An elegant design with a simple search functionality for ease of use.
 
-- Live Exchange Rates: Real-time exchange rates for the selected currencies are fetched from a reliable API, ensuring accurate conversions based on the latest market data.
+- Comprehensive Weather Details: Includes temperature, weather conditions (e.g., overcast clouds), humidity levels, and wind speed.
+  
+- Error Handling: Provides user feedback when a location is not found, ensuring a smooth user experience.
 
-- Responsive Design: The application is built to be responsive, offering a consistent user experience across various devices and screen sizes.
+- Visual Appeal: Utilizes a sleek, modern design with vibrant colors and smooth transitions to enhance user engagement.
 <br><br>
 
 <h2>Technologies Used:</h2>
@@ -25,12 +27,12 @@ This project is a straightforward web-based currency converter focused on three 
 
 - JavaScript: Implements the dynamic functionality of the currency converter, handling user input, and making API calls.
 
-- Exchange Rate API: Utilizes a reliable exchange rate API to fetch live currency conversion rates for INR, USD, and EUR.
+- Weather API: Utilizes a reliable weather API to fetch live weather data for various locations.
 <br><br>
 
 <h2>Demo:</h2>
 
-- Explore the functionality of the currency converter with our <a href="https://prajyotkalekar.github.io/Weather_Forecast_Application/" target="_blank">Live Demo</a>. Try different currency conversions and see the results in real-time.
+- Explore the functionality of the Weather Forecast Project with our <a href="https://prajyotkalekar.github.io/Weather_Forecast_Application/" target="_blank">Live Demo</a>. Enter different locations and see real-time weather updates. Experience the sleek user interface and intuitive design firsthand.
 <br><br>
 
 <h2>Screenshots:</h2>
