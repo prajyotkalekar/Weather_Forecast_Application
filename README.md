@@ -34,9 +34,9 @@ This project is a straightforward web-based currency converter focused on three 
 <br><br>
 
 <h2>Screenshots:</h2>
-![7](https://github.com/user-attachments/assets/9f0fee73-70d9-4021-bb98-0a8d9cd85f42)
-![8](https://github.com/user-attachments/assets/15b150f5-665e-49b7-b835-250bc0047e21)
-![9](https://github.com/user-attachments/assets/3fdd1929-1cbb-4d9a-97eb-14801b97689a)
+!(https://github.com/user-attachments/assets/9f0fee73-70d9-4021-bb98-0a8d9cd85f42)
+!(https://github.com/user-attachments/assets/15b150f5-665e-49b7-b835-250bc0047e21)
+!(https://github.com/user-attachments/assets/3fdd1929-1cbb-4d9a-97eb-14801b97689a)
 <br>
 
 <h4> - Feel free to contribute, report issues, or suggest improvements. Happy coding!🤝💡</h4>
