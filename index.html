@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Forecast</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="assets/favicon.png" type="image/x-icon">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="search-box">
+                <i class='bx bxs-map'></i>
+                <input type="text" placeholder="enter location..." class="input-box">
+                <button class="bx bx-search" id="searchBtn"></button>
+            </div>
+        </div>
+
+        <div class="location-not-found">
+            <h1>Sorry, Location not found!!!</h1>
+            <img src="assets/404.png" alt="Error">
+        </div>
+
+        <div class="weather-body">
+            <img src="assets/cloud.png" alt="Weather Image" class="weather-img">
+
+            <div class="weather-box">
+                <p class="temperature">0<span>°C</span></p>
+                <p class="description">light rain</p>
+            </div>
+
+            <div class="weather-details">
+                <div class="humidity">
+                    <i class='bx bx-droplet'></i>
+                    <div class="text">
+                        <span id="humidity">0%</span>
+                        <p>Humidity</p>
+                    </div>
+                </div>
+
+                <div class="wind">
+                    <i class='bx bx-wind'></i>
+                    <div class="text">
+                        <span id="wind-speed">0Km/h</span>
+                        <p>Wind Speed</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
