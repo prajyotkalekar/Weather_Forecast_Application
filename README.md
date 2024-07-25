@@ -1,4 +1,4 @@
-<h2 align = "center">Weather Forecast<img src="assets/favicon.png" alt="" height="35" width="55"/></h2>
+<h2 align = "center">Weather Forecast <img src="assets/favicon.png" alt="" height="40" width="50"/></h2>
 <br>
 
 <h2>Overview:</h2>
