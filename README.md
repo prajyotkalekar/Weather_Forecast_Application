@@ -30,7 +30,7 @@ This project is a straightforward web-based currency converter focused on three 
 
 <h2>Demo:</h2>
 
-- Explore the functionality of the currency converter with our <a href="https://prajyotkalekar.github.io/Currency_Converter_Application/" target="_blank">Live Demo</a>. Try different currency conversions and see the results in real-time.
+- Explore the functionality of the currency converter with our <a href="https://prajyotkalekar.github.io/Weather_Forecast_Application/" target="_blank">Live Demo</a>. Try different currency conversions and see the results in real-time.
 <br><br>
 
 <h2>Screenshots:</h2>
