@@ -36,9 +36,7 @@ The Weather Forecast Project is an interactive web-based application designed to
 <br><br>
 
 <h2>Screenshots:</h2>
-![7](https://github.com/user-attachments/assets/d3e5a860-f576-4d7e-95d5-6bac29cbbb34)
-![8](https://github.com/user-attachments/assets/36b82f02-ef64-4495-81a4-354b757f6412)
-![9](https://github.com/user-attachments/assets/af8396ff-389d-4f41-908b-8ce9a6a82f73)
+![Currency_Conv_App](https://github.com/prajyotkalekar/Currency_Converter/assets/141732867/5af58700-e4a2-413c-89d9-e7de848f8ed9)
 <br>
 
 <h4> - Feel free to contribute, report issues, or suggest improvements. Happy coding!🤝💡</h4>
