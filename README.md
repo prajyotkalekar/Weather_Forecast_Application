@@ -28,7 +28,7 @@ The Weather Forecast Project is an interactive web-based application designed to
 - JavaScript: Implements the dynamic functionality of the currency converter, handling user input, and making API calls.
 
 - Weather API: Utilizes a reliable weather API to fetch live weather data for various locations.
-<br>
+<br><br>
 
 <h2>Demo:</h2>
 
@@ -36,9 +36,9 @@ The Weather Forecast Project is an interactive web-based application designed to
 <br><br>
 
 <h2>Screenshots:</h2>
-![p1](https://github.com/user-attachments/assets/c1fd5262-07bf-4c51-85ff-bf8fe4441196)
-![p2](https://github.com/user-attachments/assets/a59a4885-8093-4d3b-addf-d1213195d150)
-![p3](https://github.com/user-attachments/assets/121eb149-fb9e-4170-bb7d-eaecb2c2f630)
+![p1](https://github.com/user-attachments/assets/c1fd5262-07bf-4c51-85ff-bf8fe4441196)<br>
+![p2](https://github.com/user-attachments/assets/a59a4885-8093-4d3b-addf-d1213195d150)<br>
+![p3](https://github.com/user-attachments/assets/121eb149-fb9e-4170-bb7d-eaecb2c2f630)<br>
 <br>
 
 <h4> - Feel free to contribute, report issues, or suggest improvements. Happy coding!🤝💡</h4>
